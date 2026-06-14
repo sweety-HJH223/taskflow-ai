@@ -88,4 +88,3 @@ For real client projects I can integrate:
 **SweetyCodes** — [portfolio-one-taupe-42.vercel.app](https://portfolio-one-taupe-42.vercel.app)
 
 > 📌 This is a portfolio demo project. Not a real business.
-4. Success message shown to visitor
