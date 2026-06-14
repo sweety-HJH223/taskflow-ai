@@ -89,5 +89,3 @@ For real client projects I can integrate:
 
 > 📌 This is a portfolio demo project. Not a real business.
 4. Success message shown to visitor
-
-## 📁 Project Structure
