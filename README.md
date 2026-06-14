@@ -5,8 +5,6 @@ A modern SaaS landing page for an AI-powered freelance workflow automation tool.
 ## 🔗 Live Demo
 [taskflow-ai.vercel.app](https://taskflow-ai.vercel.app)
 
-## 📸 Preview
-![TaskFlow AI Preview](/public/taskflow.png)
 
 ## ✨ Features
 - Editorial dark design with lime green accents
