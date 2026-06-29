@@ -20,7 +20,7 @@ A modern SaaS landing page for an AI-powered freelance workflow automation tool.
 - Mobile responsive with hamburger menu
 
 ## 🔗 Real AI Projects Linked
-- **Vibe Weather** — Bilingual EN/KO weather app → [[korean-weather-app.vercel.app](https://korean-weather-app.vercel.app)](https://vibe-weather-kr-en.vercel.app/)
+- **Vibe Weather** — Bilingual EN/KO weather app → [korean-weather-app.vercel.app](https://vibe-weather-kr-en.vercel.app/)
 - **K-Trust** — Korean market AI compliance portal → [project-4xzgu-blush.vercel.app](https://project-4xzgu-blush.vercel.app)
 
 ## 🛠️ Tech Stack
