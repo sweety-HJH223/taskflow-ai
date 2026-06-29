@@ -47,37 +47,24 @@ Open [http://localhost:3000](http://localhost:3000)
 4. Success message shown to visitor
 
 ## 📁 Project Structure
+```
 app/
-
-page.tsx              # Main page
-
-globals.css           # Global styles
+├── page.tsx              # Main page
+└── globals.css           # Global styles
 
 components/
-
-navbar.tsx            # Sticky nav + hamburger
-
-hero.tsx              # Asymmetric hero section
-
-marquee.tsx           # Scrolling ticker strip
-
-problem.tsx           # Stats + problem section
-
-features.tsx          # Bento grid features
-
-how-it-works.tsx      # Numbered steps
-
-other-tools.tsx       # KTrust + Weather links
-
-faq.tsx               # Accordion FAQ
-
-waitlist.tsx          # Email waitlist form
-
-footer.tsx            # Minimal footer
-
+├── navbar.tsx            # Sticky nav + hamburger
+├── hero.tsx              # Asymmetric hero section
+...
+```
 ## 💼 About This Project
-This is a **portfolio demo project** — a marketing landing page for a fictional SaaS product. It demonstrates the ability to build startup/SaaS landing pages that clients need when launching new products.
+A marketing landing page for a SaaS product, demonstrating the ability to build startup landing pages for clients launching new products.
 
+For real client projects I can integrate:
+- Real authentication (NextAuth)
+- Database (Supabase/PostgreSQL)
+- Payment subscriptions (Stripe)
+- Actual AI features (OpenAI/Gemini API)
 For real client projects I can integrate:
 - Real authentication (NextAuth)
 - Database (Supabase/PostgreSQL)
@@ -85,6 +72,4 @@ For real client projects I can integrate:
 - Actual AI features (OpenAI/Gemini API)
 
 ## 👩‍💻 Built By
-**SweetyCodes** — [portfolio-one-taupe-42.vercel.app](https://portfolio-one-taupe-42.vercel.app)
-
-> 📌 This is a portfolio demo project. Not a real business.
+**SweetyCodes** — [sweetycodes-jh.vercel.app](https://sweetycodes-jh.vercel.app/)
