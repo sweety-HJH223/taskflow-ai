@@ -1,6 +1,6 @@
 # ⚡ TaskFlow AI
 
-A modern SaaS landing page for an AI-powered freelance workflow automation tool. Built as a freelance portfolio demo project targeting global clients.
+A modern SaaS landing page for an AI-powered freelance workflow automation tool. 
 
 ## 🔗 Live Demo
 [taskflow-ai.vercel.app](https://taskflow-ai.vercel.app)
